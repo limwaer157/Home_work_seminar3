@@ -1,2 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// Подсчитать сумму цифр в числе
 Console.WriteLine("Hello, World!");

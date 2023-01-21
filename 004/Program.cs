@@ -1,2 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// Показать кубы чисел, заканчивающихся на четную цифру
 Console.WriteLine("Hello, World!");
