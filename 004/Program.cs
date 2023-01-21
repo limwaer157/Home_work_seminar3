@@ -13,7 +13,7 @@ int numD = 0;
     index = index + 1;
     if (numC < 1) 
     {
-        Console.WriteLine(numB);
+     Console.WriteLine(numB);
     }
   }
 
